@@ -2,6 +2,8 @@
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
+[Link to demo my project](https://destinyw.github.io/huddle-landing-page-with-single-introductory-section-master/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
